@@ -1,0 +1,19 @@
+{
+  "Mathematical formats and symbols": {
+    "prefix": "amsmath",
+    "body": [
+      "\\usepackage{amsmath}",
+      "\\usepackage{amsfonts}",
+      "\\usepackage{amssymb}",
+      "\\usepackage{mathrsfs}"
+    ],
+    "description": "Mathematical formats and symbols"
+  },
+    "Chinese Format": {
+    "prefix": "ctex",
+    "body": [
+      "\\usepackage[fontset = windows]{ctex}"
+    ],
+    "description": "Chinese Format"
+  }
+}
